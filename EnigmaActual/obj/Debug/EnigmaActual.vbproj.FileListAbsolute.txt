@@ -1,0 +1,41 @@
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.exe.config
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.exe
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.pdb
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.xml
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.AssemblyReference.cache
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Form1.resources
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Resources.resources
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.GenerateResource.cache
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.exe
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.xml
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.pdb
+C:\Users\User\OneDrive - Strathallan School\COMP\Project\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Form2.resources
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.exe.config
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.exe
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.pdb
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.xml
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.AssemblyReference.cache
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.SuggestedBindingRedirects.cache
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Form1.resources
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Form2.resources
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Resources.resources
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.GenerateResource.cache
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.CoreCompileInputs.cache
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.exe
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.xml
+\\nas01\HOMEDIR\staffgg\Documents\Alevel\Projects2122\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.pdb
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.exe.config
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.exe
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.pdb
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\bin\Debug\EnigmaActual.xml
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.AssemblyReference.cache
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.SuggestedBindingRedirects.cache
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Form1.resources
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Form2.resources
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.Resources.resources
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.GenerateResource.cache
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.vbproj.CoreCompileInputs.cache
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.exe
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.xml
+S:\Computing\Staff\A LEVEL COMPUTER SCIENCE 2016\Projectstuff\2022\EnigmaActual May 6 Final (1)\EnigmaActual\EnigmaActual\obj\Debug\EnigmaActual.pdb
